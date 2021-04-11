@@ -1,0 +1,15 @@
+#web_bg {
+    /* 背景图像的地址（url括号里）  */
+    background: url(https://upimage.alexhchu.com/2021/04/08/9b1c4a0780a57.jpg);
+    /* 背景图像不重复 */
+    background-repeat: no-repeat;
+    /* 背景图像大小 */
+    background-size: cover;
+  }
+  body {
+    background-color:#92785d;
+  }
+  #footer {
+    background: #00000000;
+  }
+ 
