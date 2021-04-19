@@ -3,11 +3,11 @@
   <title>Infinitasのblog</title>
   
   <subtitle>每天进步一点点</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://infinitas.top/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2021-04-11T07:22:11.267Z</updated>
-  <id>http://example.com/</id>
+  <link href="http://infinitas.top/"/>
+  <updated>2021-04-19T02:45:14.854Z</updated>
+  <id>http://infinitas.top/</id>
   
   <author>
     <name>Infinitas</name>
@@ -18,30 +18,25 @@
   
   <entry>
     <title>创作博客的个人日记</title>
-    <link href="http://example.com/2021/03/21/hello-world/"/>
-    <id>http://example.com/2021/03/21/hello-world/</id>
+    <link href="http://infinitas.top/2021/03/21/hello-world/"/>
+    <id>http://infinitas.top/2021/03/21/hello-world/</id>
     <published>2021-03-21T13:24:16.250Z</published>
-    <updated>2021-04-11T07:22:11.267Z</updated>
+    <updated>2021-04-19T02:45:14.854Z</updated>
     
-    <content type="html"><![CDATA[<p>仍在创作中! 由于考证延期，感谢光临</p><!-- ## Quick Start### Create a new post<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a> –&gt;</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="仍在创作中-由于考证延期，感谢光临"><a href="#仍在创作中-由于考证延期，感谢光临" class="headerlink" title="仍在创作中! 由于考证延期，感谢光临"></a>仍在创作中! 由于考证延期，感谢光临</h2>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;仍在创作中! 由于考证延期，感谢光临&lt;/p&gt;
-&lt;!-- ## Quick Start
-
-### Create a new post
-
-&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span </summary>
+    <summary type="html">&lt;h2 id=&quot;仍在创作中-由于考证延期，感谢光临&quot;&gt;&lt;a href=&quot;#仍在创作中-由于考证延期，感谢光临&quot; class=&quot;headerlink&quot; title=&quot;仍在创作中! 由于考证延期，感谢光临&quot;&gt;&lt;/a&gt;仍在创作中! 由于考证延期，感谢光临&lt;/h2&gt;</summary>
       
     
     
     
-    <category term="自言自语" scheme="http://example.com/categories/%E8%87%AA%E8%A8%80%E8%87%AA%E8%AF%AD/"/>
+    <category term="自言自语" scheme="http://infinitas.top/categories/%E8%87%AA%E8%A8%80%E8%87%AA%E8%AF%AD/"/>
     
     
-    <category term="日记" scheme="http://example.com/tags/%E6%97%A5%E8%AE%B0/"/>
+    <category term="日记" scheme="http://infinitas.top/tags/%E6%97%A5%E8%AE%B0/"/>
     
   </entry>
   
