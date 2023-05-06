@@ -17,7 +17,7 @@
   localSearch: undefined,
   translate: {"defaultEncoding":1,"translateDelay":0,"msgToTraditionalChinese":"繁","msgToSimplifiedChinese":"簡"},
   noticeOutdate: undefined,
-  highlight: {"plugin":"highlighjs","highlightCopy":true,"highlightLang":true,"highlightHeightLimit":false},
+  highlight: {"plugin":"highlighjs","highlightCopy":true,"highlightLang":true,"highlightHeightLimit":null},
   copy: {
     success: '复制成功',
     error: '复制错误',
@@ -55,7 +55,7 @@
   title: 'Python学习笔记',
   isPost: true,
   isHome: false,
-  isHighlightShrink: false,
+  isHighlightShrink: undefined,
   isToc: true,
   postUpdate: '2023-05-05 21:26:05'
 }</script><noscript><style type="text/css">
@@ -143,8 +143,12 @@
       }
       const t = saveToLocal.get('theme')
     
-          if (t === 'dark') activateDarkMode()
+          const now = new Date()
+          const hour = now.getHours()
+          const isNight = hour <= 6 || hour >= 18
+          if (t === undefined) isNight ? activateDarkMode() : activateLightMode()
           else if (t === 'light') activateLightMode()
+          else activateDarkMode()
         
       const asideStatus = saveToLocal.get('aside-status')
       if (asideStatus !== undefined) {
